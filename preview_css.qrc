@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/preview_css">
+        <file>resource/dark.css</file>
+        <file>resource/fresh.css</file>
+        <file>resource/light.css</file>
+        <file>resource/pink.css</file>
+    </qresource>
+</RCC>

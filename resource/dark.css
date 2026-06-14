@@ -1,0 +1,9 @@
+body { font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif; font-size: 14px; line-height: 1.6; color: #e0e0e0; background: #1e1e1e; max-width: 900px; margin: 20px auto; padding: 20px; }
+            h1, h2 { border-bottom: 1px solid #444; color: #f0f0f0; }
+            code { background: #2d2d2d; padding: 2px 6px; border-radius: 4px; color: #f8f8f2; }
+            pre { background: #2d2d2d; padding: 12px; border-radius: 8px; }
+            blockquote { border-left: 4px solid #555; padding-left: 16px; color: #aaa; }
+            table { border-collapse: collapse; width: 100%; }
+            th, td { border: 1px solid #444; padding: 8px; }
+            th { background: #2d2d2d; }
+            a { color: #80cbc4; }

@@ -1,0 +1,8 @@
+QMainWindow { background-color: #e8f5e9; }
+            QMenuBar { background-color: #c8e6c9; border-bottom: 1px solid #a5d6a7; color: #2e7d32; font-family: "Microsoft YaHei"; font-size: 13px; padding: 4px; }
+            QMenuBar::item { background-color: transparent; padding: 6px 16px; border-radius: 6px; }
+            QMenuBar::item:selected { background-color: #a5d6a7; }
+            QToolBar { background-color: #fff8e1; border-bottom: 1px solid #ffcc80; padding: 6px 12px; spacing: 12px; min-height: 40px; }
+            QToolButton { background-color: transparent; border: none; border-radius: 6px; padding: 6px 12px; font-size: 12px; color: #5d4037; }
+            QToolButton:hover { background-color: #ffecb3; }
+            QStatusBar { background-color: #e8f5e9; color: #558b2f; border-top: 1px solid #c5e1a5; }
